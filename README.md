@@ -17,7 +17,7 @@ This web application classifies the customer as potential customer or highly or 
 
 1. **Clone the repository:**
    ```bash
-    git clone https://github.com/ch-sravya1712/CustomerSegmentation.git
+    git clone https://github.com/NikhilaManogna/CustomerSegementation.git
     ```
 2. Install dependencies:
    ```bash
